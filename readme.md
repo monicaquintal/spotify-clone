@@ -18,7 +18,7 @@ Projeto desenvolvido na Seção 7 (Bootstrap 4 & Design responsivo) do Curso de 
   - inserindo o divisor na barra de navegação.
 
 - criando a seção "Música para todos" (home) - grid, título, botões;
-- tornando a fonte do h1 responsiva de acordo com dispositivo (utilizando media queries):
+- tornando a fonte do h1 responsiva de acordo com dispositivo (utilizando <a href="https://getbootstrap.com/docs/4.0/layout/overview/">media queries</a>):
   - disponibilizado também o <a href="https://www.w3schools.com/tags/ref_pxtoemconversion.asp" target="_blank">link do site</a> para conversão de pixels para em.
 - estilização dos botões.
 
