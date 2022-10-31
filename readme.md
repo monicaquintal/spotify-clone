@@ -17,4 +17,9 @@ Projeto desenvolvido na Seção 7 (Bootstrap 4 & Design responsivo) do Curso de 
   - sobrescrevenco configuração padrão do bootstrap (nesse caso, em relação à cor dos links da barra de navegação e da borda do menu sanduiche) - verificar clicando com o botão direita sobre ele na página, e clicando inspecionar - identificar a qual classes deve se referir (especificidade);
   - inserindo o divisor na barra de navegação.
 
-- criando a seção "Música para todos" (home):
+- criando a seção "Música para todos" (home) - grid, título, botões;
+- tornando a fonte do h1 responsiva de acordo com dispositivo (utilizando media queries):
+  - disponibilizado também o <a href="https://www.w3schools.com/tags/ref_pxtoemconversion.asp" target="_blank">link do site</a> para conversão de pixels para em.
+- estilização dos botões.
+
+### Aula 03:
