@@ -14,7 +14,7 @@ Projeto desenvolvido na Seção 7 (Bootstrap 4 & Design responsivo) do Curso de 
 - ajuste da barra de navegação;
 - configuração dos links:
 
-  - sobrescrevenco configuração padrão do bootstrap (nesse caso, em relação à cor dos links da barra de navegação e da borda do menu sanduiche) - verificar clicando com o botão direita sobre ele na página, e clicando inspecionar - identificar a qual classes deve se referir (especificidade);
+  - sobrescrevendo configuração padrão do bootstrap (nesse caso, em relação à cor dos links da barra de navegação e da borda do menu sanduiche) - verificar clicando com o botão direita sobre ele na página, e clicando inspecionar - identificar a qual classes deve se referir (especificidade);
   - inserindo o divisor na barra de navegação.
 
 - criando a seção "Música para todos" (home) - grid, título, botões;
@@ -23,3 +23,12 @@ Projeto desenvolvido na Seção 7 (Bootstrap 4 & Design responsivo) do Curso de 
 - estilização dos botões.
 
 ### Aula 03:
+
+- inclusão dos conteúdos;
+- criação da seção "serviços", utilizando grids específicos;
+- subdivisão do grid;
+- imagens com layout fluido;
+- aplicação de estilização específica para o bloco;
+- rotacionando a row (iphones);
+- quando a imagem ultrapassa o limite da tela:
+  - atributo "overflow-x: hidden" esconde a barra de rolagem horizontal (o y esconde a vertical).
