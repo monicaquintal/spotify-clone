@@ -32,3 +32,8 @@ Projeto desenvolvido na Seção 7 (Bootstrap 4 & Design responsivo) do Curso de 
 - rotacionando a row (iphones);
 - quando a imagem ultrapassa o limite da tela:
   - atributo "overflow-x: hidden" esconde a barra de rolagem horizontal (o y esconde a vertical).
+
+  ### Aula 04:
+
+- criando o rodapé;
+- conteúdo extra: utilização do menu "Inspecionar", e visualização do site em dispositivos de tamanhos diferentes.
