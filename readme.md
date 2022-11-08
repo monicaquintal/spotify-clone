@@ -1,6 +1,8 @@
-## Spotify Clone
-
-Projeto desenvolvido na Seção 7 (Bootstrap 4 & Design responsivo) do Curso de Desenvolvimento Web Completo 2022.
+<div align="center">
+<h2>🎧 Spotify Clone</h2>
+<h3>Seção 7: Bootstrap 4 & Design responsivo</h3>
+<p>Curso Desenvolvimento Web Completo 2022</p>
+</div>
 
 ### Aula 01:
 
@@ -37,3 +39,8 @@ Projeto desenvolvido na Seção 7 (Bootstrap 4 & Design responsivo) do Curso de 
 
 - criando o rodapé;
 - conteúdo extra: utilização do menu "Inspecionar", e visualização do site em dispositivos de tamanhos diferentes.
+
+
+### Aula 05:
+
+- criação do Carousel Slider, a partir do conteúdo desenvolvido na aula de [Estudo Carousel](https://github.com/monicaquintal/estudoCarousel). 🎠
